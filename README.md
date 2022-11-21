@@ -6,5 +6,5 @@ Nombre:Andy Eduardo Misael García Guzmán
 Clave:08<br>
 Nombre:Marlon Ronaldo Amador Carranza
 Clave:01<br>
-Nombre:Estuardo Lopez Chay
-Clave:12<br>
+Nombre:Nelson Lorenzo Calicio Tubac
+Clave:04<br>
