@@ -22,3 +22,5 @@ Nombre:Luis Miguel Cua Canel
 clave:7<br>
 Nombre:Jhony Omar Jiménez Cruz
 clave:11<br>
+Nombre:Franklin Romario Choc Pan
+clave:06<br>
