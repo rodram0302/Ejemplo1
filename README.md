@@ -10,3 +10,5 @@ Nombre:Nelson Lorenzo Calicio Tubac
 Clave:04<br>
 Nombre:Jerson Danilo García Ortíz
 Clave:09
+Nombre:Estuardo Andres Lopez Chay
+Clave:12<br>
