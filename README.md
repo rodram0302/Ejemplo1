@@ -28,9 +28,14 @@ Nombre :Mateo Filadelfo Yos Jocholá
 Clave: 19<br>
 Nombre Williams Armando Montecinos Sánchez
 Clave: 14<br>
+Nombre: Juan Carlos Bautista Rafael
+Clave: 03<br>
 Nombre: Francisco Omar Sanchez Cabrera
 Clave:17<br>
 Nombre:Josué Waldemar Vásquez Escalante
 Clave:18<br>
+<<<<<<< HEAD
 Nombre:Yonifer Catalino Morales Solis
 Clave:15<br>
+=======
+>>>>>>> 50be7ebe8d427d2829491fa1dc86b7d271dca409
