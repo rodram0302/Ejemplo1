@@ -16,5 +16,10 @@ Nombre:Melvin Javier Andres Tomás
 Clave:02<br>
 Nombre:Rudy Estuardo Macz Juc
 Clave:13<br>
+<<<<<<< HEAD
 Nombre:Axel David Ical Tec
 Clave:10<br>
+=======
+Nombre:Luis Miguel Cua Canel
+clave:7<br>
+>>>>>>> b6876ca6f07504da5423b70637d2cdfe3384a5a3
