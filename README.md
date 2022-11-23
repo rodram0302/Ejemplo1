@@ -26,3 +26,5 @@ Nombre:Franklin Romario Choc Pan
 clave:06<br>
 Nombre :Mateo Filadelfo Yos Jocholá
 Clave: 19<br>
+Nombre Williams Armando Montecinos Sánchez
+Clave: 14<br>
