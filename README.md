@@ -28,3 +28,5 @@ Nombre :Mateo Filadelfo Yos Jocholá
 Clave: 19<br>
 Nombre Williams Armando Montecinos Sánchez
 Clave: 14<br>
+Nombre: Francisco Omar Sanchez Cabrera
+Clave:17<br>
