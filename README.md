@@ -32,3 +32,5 @@ Nombre: Francisco Omar Sanchez Cabrera
 Clave:17<br>
 Nombre:Josué Waldemar Vásquez Escalante
 Clave:18<br>
+Nombre:Yonifer Catalino Morales Solis
+Clave:15<br>
