@@ -22,5 +22,10 @@ Nombre:Luis Miguel Cua Canel
 clave:7<br>
 Nombre:Jhony Omar Jiménez Cruz
 clave:11<br>
+<<<<<<< HEAD
 Nombre:Franklin Romario Choc Pan
 clave:06<br>
+=======
+Nombre :Mateo Filadelfo Yos Jocholá
+Clave: 19<br>
+>>>>>>> 32b98dff21a4fca7789aadf1e6ef3ffc8d587c17
